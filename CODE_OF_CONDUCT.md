@@ -59,8 +59,8 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT YOUR EMAIL].
+reported to the community leaders responsible for enforcement by opening a
+confidential issue on the [GitHub repository](https://github.com/victoriaEssien/delta/issues).
 
 All complaints will be reviewed and investigated promptly and fairly.
 
