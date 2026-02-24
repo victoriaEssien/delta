@@ -1,6 +1,6 @@
 {
   "name": "delta-git-ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/cli/index.js",
   "bin": {
     "delta": "./dist/cli/index.js"
@@ -11,7 +11,16 @@
     "prepublishOnly": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["git", "commit", "ai", "cli", "developer-tools", "gemini", "conventional-commits", "automation"],
+  "keywords": [
+    "git",
+    "commit",
+    "ai",
+    "cli",
+    "developer-tools",
+    "gemini",
+    "conventional-commits",
+    "automation"
+  ],
   "author": "Victoria Essien",
   "license": "MIT",
   "description": "AI-powered Git companion for commit messages, branches, and PRs",
