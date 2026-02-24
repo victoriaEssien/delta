@@ -1,5 +1,5 @@
 {
-  "name": "@victoria-essien/delta",
+  "name": "delta-git-ai",
   "version": "1.0.0",
   "main": "dist/cli/index.js",
   "bin": {

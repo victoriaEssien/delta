@@ -1,4 +1,4 @@
-# Delta ✨
+# Delta Git AI
 
 > AI-powered Git companion that generates conventional commit messages, branch names, and PR descriptions
 
@@ -6,16 +6,16 @@ Delta streamlines your Git workflow by using AI to analyze your code changes and
 
 ## Features
 
-- 🤖 **AI-Powered Commit Messages** - Analyzes staged changes and generates meaningful conventional commits
-- ⚡ **Fast & Simple** - Clean CLI interface with minimal setup
-- 🎯 **Type Enforcement** - Optionally specify commit types (feat, fix, chore, etc.)
-- 🎨 **Beautiful Output** - Colored terminal output for better readability
-- 📝 **Conventional Commits** - Follows industry-standard commit message format
+- **AI-Powered Commit Messages** - Analyzes staged changes and generates meaningful conventional commits
+- **Fast & Simple** - Clean CLI interface with minimal setup
+- **Type Enforcement** - Optionally specify commit types (feat, fix, chore, etc.)
+- **Beautiful Output** - Colored terminal output for better readability
+- **Conventional Commits** - Follows industry-standard commit message format
 
 ## Installation
 
 ```bash
-npm install -g @victoria-essien/delta
+npm install -g delta-git-ai
 ```
 
 ## Setup
@@ -122,7 +122,3 @@ MIT
 ## Author
 
 Victoria Essien
-
----
-
-**Portfolio Project** - Showcasing architecture thinking, TypeScript expertise, and AI integration skills.
