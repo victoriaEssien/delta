@@ -1,6 +1,6 @@
 # Delta Git AI
 
-> AI-powered Git companion that generates conventional commit messages, branch names, and PR descriptions
+> AI-powered Git companion that generates conventional commit messages (branch names, and PR descriptions coming soon!)
 
 Delta streamlines your Git workflow by using AI to analyze your code changes and automatically generate clean, professional, and consistent commit messages following conventional commit standards.
 
