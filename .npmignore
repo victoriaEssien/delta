@@ -1,0 +1,28 @@
+# Source files (TypeScript will be compiled to dist/)
+cli/
+core/
+prompts/
+utils/
+tests/
+*.ts
+!*.d.ts
+
+# Config files
+tsconfig.json
+.env
+.env.*
+
+# Git
+.git
+.gitignore
+
+# Development
+node_modules/
+*.log
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
