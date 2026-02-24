@@ -155,10 +155,4 @@ MIT - see [LICENSE](LICENSE) for details.
 
 ## Author
 
-Victoria Essien
-
----
-
-**Portfolio Project** - Showcasing architecture thinking, TypeScript expertise, and AI integration skills.
-
-Made with ❤️ and AI
+[Victoria Essien](https://www.victoriaessien.com/) - Software Engineer
