@@ -3,3 +3,9 @@ node_modules/
 dist
 .env
 .env.local
+
+# npm package artifacts
+*.tgz
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
