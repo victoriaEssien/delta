@@ -20,7 +20,7 @@ npm install -g delta-git-ai
 
 ## Setup
 
-1. Get a [Google Gemini API key](https://makersuite.google.com/app/apikey) (free)
+1. Get a [Google Gemini API key](https://aistudio.google.com/app/api-keys) (free)
 
 2. Create a `.env` file in your project root or home directory:
 
@@ -39,7 +39,9 @@ delta commit
 ```
 
 Output:
-```
+
+```text
+
 🔍 Analyzing staged changes...
 
 ✓ Generated commit message:
@@ -48,6 +50,7 @@ feat: add user authentication with JWT
 
 To use this message:
   git commit -m "feat: add user authentication with JWT"
+
 ```
 
 ### Specify Commit Type
@@ -90,7 +93,7 @@ delta commit -t docs
 
 ```bash
 # Clone repository
-git clone https://github.com/victoria-essien/delta.git
+git clone https://github.com/victoriaEssien/delta.git
 cd delta
 
 # Install dependencies
